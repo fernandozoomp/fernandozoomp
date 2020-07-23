@@ -53,6 +53,8 @@ Happy Coding! 😊
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 </div>
 
+<div align="center" width="50">
+ 
 <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/fernando-cardoso-23245146" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -63,6 +65,7 @@ Happy Coding! 😊
 [![HitCount](http://hits.dwyl.com/fernandozoomp/fernandozoomp.svg)](http://hits.dwyl.com/fernandozoomp/fernandozoomp)
 
 ⭐ From [Fernando](https://github.com/fernandozoomp) 
+</div>
 
 ### Hi there 👋
 
