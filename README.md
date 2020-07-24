@@ -9,13 +9,6 @@ Happy Coding! 😊
 
 <img align="right" src="https://user-images.githubusercontent.com/64983541/88350826-af349200-cd2a-11ea-9ee0-225018e7f2dc.gif" width="250px" />
 
-<div align="left">
-
-### My GitHub Stats
-
-![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandozoomp&show_icons=true)
-
-</div>
 
 <div align="center">
 
@@ -62,6 +55,16 @@ Happy Coding! 😊
 <a href="https://dev.to/fernandozoomp" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
 [![HitCount](http://hits.dwyl.com/fernandozoomp/fernandozoomp.svg)](http://hits.dwyl.com/fernandozoomp/fernandozoomp)
+
+<div align="center">
+
+### My GitHub Stats
+
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandozoomp&show_icons=true)
+
+</div>
+
+<div align="center" width="50">
 
 ⭐ From [Fernando](https://github.com/fernandozoomp) 
 </div>
