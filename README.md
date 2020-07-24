@@ -3,9 +3,6 @@
 
 <div align="center" width="50">
  
-![Java](https://codepen.io/MananTank/pen/wvMOWpG)
-<img src="https://codepen.io/MananTank/pen/wvMOWpG" alt="Welcome!" width="300"/>
-
 </div>
 
 You have finally discovered my Github profile. <br>
