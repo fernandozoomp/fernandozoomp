@@ -7,7 +7,7 @@ Please feel free to clone projects and raise issues if you think something could
 Happy Coding! 😊
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/fernandozoomp/fernandozoomp/issues/2#issue-664842935" width="200" />
+<img align="right" src="https://user-images.githubusercontent.com/64983541/88350826-af349200-cd2a-11ea-9ee0-225018e7f2dc.gif" width="200" />
 
 <div align="center">
 
