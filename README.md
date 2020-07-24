@@ -7,14 +7,17 @@ Feel free to clone projects and raise questions, I am always ready to learn and 
 Happy Coding! 😊
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/64983541/88350826-af349200-cd2a-11ea-9ee0-225018e7f2dc.gif" width="200" />
+<img align="right" src="https://user-images.githubusercontent.com/64983541/88350826-af349200-cd2a-11ea-9ee0-225018e7f2dc.gif" width="150px" />
 
-<div align="center">
+<div align="left">
 
 ### My GitHub Stats
 
 ![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandozoomp&show_icons=true)
 
+</div>
+
+<div align="center">
 
 ### My Tech Stack
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
