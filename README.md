@@ -4,11 +4,13 @@
 How nice to have you here on my Github profile. <BR>
 Feel free to clone projects and raise questions, I am always ready to learn and improve the techniques.
 
+<img align="right" src="https://user-images.githubusercontent.com/64983541/88350826-af349200-cd2a-11ea-9ee0-225018e7f2dc.gif" width="150px" />
+
 Happy Coding! 😊
 
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/64983541/88350826-af349200-cd2a-11ea-9ee0-225018e7f2dc.gif" width="150px" />
+
 
 
 <div align="center">
