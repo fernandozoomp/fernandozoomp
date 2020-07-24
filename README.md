@@ -7,7 +7,7 @@ Feel free to clone projects and raise questions, I am always ready to learn and 
 Happy Coding! 😊
 </div>
 
-<img align="right" src="https://user-images.githubusercontent.com/64983541/88350826-af349200-cd2a-11ea-9ee0-225018e7f2dc.gif" width="150px" />
+<img align="right" src="https://user-images.githubusercontent.com/64983541/88350826-af349200-cd2a-11ea-9ee0-225018e7f2dc.gif" width="250px" />
 
 <div align="left">
 
