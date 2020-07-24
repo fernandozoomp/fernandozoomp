@@ -1,7 +1,7 @@
 
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2> 
 
- <img align="right" alt="GIF" src="https://github.com/fernandozoomp/fernandozoomp/issues/1#issue-664840537" width="200vw" />
+<img align="right" alt="GIF" src="https://github.com/fernandozoomp/fernandozoomp/issues/1#issue-664840537" width="200px" />
 
 
 You have finally discovered my Github profile. <br>
@@ -63,5 +63,5 @@ Happy Coding! 😊
 ⭐ From [Fernando](https://github.com/fernandozoomp) 
 </div>
 
-### Hi there 👋
+
 
