@@ -15,9 +15,12 @@ Happy Coding! 😊
 
 
 
-<div align="center">
+<div align="center" width="50px">
 
 ### My Tech Stack
+<img src="https://user-images.githubusercontent.com/64983541/88601113-49a41680-d046-11ea-8064-dc734a140917.png"  width="60" height="30">
+
+![Python](https://user-images.githubusercontent.com/64983541/88601113-49a41680-d046-11ea-8064-dc734a140917.png)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
@@ -48,6 +51,7 @@ Happy Coding! 😊
 
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
+
 </div>
 
 <div align="center" width="50">
