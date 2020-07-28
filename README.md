@@ -64,7 +64,7 @@ Happy Coding! 😊
 <a href="https://www.facebook.com/fernando.cardoso.505960" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/fernandozoomp" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
-[![HitCount](http://hits.dwyl.com/fernandozoomp/fernandozoomp.svg)](http://hits.dwyl.com/fernandozoomp/fernandozoomp)
+</div>
 
 <div align="center">
 
@@ -72,7 +72,15 @@ Happy Coding! 😊
 
 ![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandozoomp&show_icons=true)
 
+
 </div>
+
+<div align="center" width="50">
+
+[![HitCount](http://hits.dwyl.com/fernandozoomp/fernandozoomp.svg)](http://hits.dwyl.com/fernandozoomp/fernandozoomp)
+
+</div>
+
 
 <div align="center" width="50">
 
