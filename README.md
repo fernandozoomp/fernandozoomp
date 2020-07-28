@@ -19,6 +19,7 @@ Happy Coding! 😊
 
 ### My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-F9CD07?style=flat-square&logo=python&logoColor=0C43AB)
+![R](http://img.shields.io/badge/-R-1A4EB8?style=flat-square&logo=R&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Rancher](http://img.shields.io/badge/-Rancher-0075A8?style=flat-square&logo=rancher&logoColor=ffffff)
