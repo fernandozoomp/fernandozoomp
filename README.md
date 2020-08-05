@@ -36,7 +36,7 @@ Happy Coding! 😊
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-2C62D0?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![AWS](http://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=Amazon-aws&logoColor=FC9900)
 ![Azure](http://img.shields.io/badge/-MS%20Azure-2B6EF3?style=flat-square&logo=Microsoft-Azure&logoColor=ffffff)
 
