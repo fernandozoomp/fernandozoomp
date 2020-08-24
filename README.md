@@ -78,7 +78,7 @@ Happy Coding! 😊
 
 <div align="center" width="50">
 
-[![HitCount](http://hits.dwyl.com/fernandozoomp/fernandozoomp.svg)](http://hits.dwyl.com/fernandozoomp/fernandozoomp)
+
 
 </div>
 
