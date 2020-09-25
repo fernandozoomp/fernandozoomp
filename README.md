@@ -82,7 +82,9 @@ Feel free to clone projects and ask questions, I am always ready to learn and im
 
 <div align="center" width="50">
  
-[![HitCount](http://hits.dwyl.com/fernandozoomp/fernandozoomp.svg)](http://hits.dwyl.com/fernandozoomp/fernandozoomp)
+
+
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=fernandozoomp.fernandozoomp)
 
 </div>
 
