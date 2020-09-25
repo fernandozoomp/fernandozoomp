@@ -6,7 +6,7 @@
 
 How nice to have you here on my Github profile. <BR>
  
-Feel free to clone projects and ask questions, I am always ready to learn and improve development techniques. :books: <BR>
+I am always ready to learn and improve development techniques. :books: <BR>
 
 ⚡  Available for Freelance projects/internship opportunities.
 
