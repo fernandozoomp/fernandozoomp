@@ -8,7 +8,15 @@ Feel free to clone projects and ask questions, I am always ready to learn and im
 
 ⚡  Available for Freelance projects/internship opportunities.
 
-Happy Coding! 😊
+😊 Happy Coding! 
+
+### 📖 What am currently learning
+ 
+- Full Stack Web Development  * Progress 50% *
+- Data Science  * Progress 72% *
+- AI & Machine Learning  * Progress 15% *
+
+
 
 </div>
 
@@ -73,8 +81,16 @@ Happy Coding! 😊
 
 
 <div align="center" width="50">
+ 
+[![HitCount](http://hits.dwyl.com/fernandozoomp/fernandozoomp.svg)](http://hits.dwyl.com/fernandozoomp/fernandozoomp)
+
+</div>
+
+<div align="center" width="50">
+ 
 
 ⭐ From [Fernando](https://github.com/fernandozoomp) 
+
 </div>
 
 
