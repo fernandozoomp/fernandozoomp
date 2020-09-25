@@ -12,7 +12,7 @@ I am always ready to learn and improve development techniques. :books: <BR>
 
 😊 Happy Coding! 
 
-### 📖 What am currently learning
+###  What am currently learning 📖
  
 - Full Stack Web Development  * Progress 50% *
 - Data Science  * Progress 72% *
