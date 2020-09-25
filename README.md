@@ -1,6 +1,6 @@
 <img align="right" src="https://user-images.githubusercontent.com/64983541/88350826-af349200-cd2a-11ea-9ee0-225018e7f2dc.gif" width="100px" />
 
-<div align="center">
+<div align="left">
  
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/64983541/88351458-caa09c80-cd2c-11ea-8285-71b77dcd96eb.gif" width="30px"></h2> 
 
@@ -25,7 +25,7 @@ Feel free to clone projects and ask questions, I am always ready to learn and im
 
 
 
-<div align="center" >
+<div align="left" >
 
 ### My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-F9CD07?style=flat-square&logo=python&logoColor=0C43AB)
@@ -55,7 +55,7 @@ Feel free to clone projects and ask questions, I am always ready to learn and im
 
 </div>
 
-<div align="center" width="50">
+<div align="left" width="50">
  
 ### <i>Follow me:</i><br>
 
