@@ -14,9 +14,9 @@ I am always ready to learn and improve development techniques. :books: <BR>
 
 ###  What am currently learning 📖
  
-- Full Stack Web Development  * Progress 50% *
-- Data Science  * Progress 72% *
-- AI & Machine Learning  * Progress 15% *
+- Full Stack Web Development  *in Progress *
+- Data Science  *in Progress *
+- AI & Machine Learning  *in Progress *
 
 
 
