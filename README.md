@@ -39,7 +39,7 @@ I am always ready to learn and improve development techniques. :books: <BR>
 
 #### Database
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Mongo DB](http://img.shields.io/badge/-Mongo%db-DD0031?style=flat-square&logo=Mongo)
+![Mongo DB](http://img.shields.io/badge/-Mongo%20DB-684531?style=flat-square&logo=Mongodb)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-2C62D0?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![AWS](http://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=Amazon-aws&logoColor=FC9900)
 ![Azure](http://img.shields.io/badge/-MS%20Azure-2B6EF3?style=flat-square&logo=Microsoft-Azure&logoColor=ffffff)
