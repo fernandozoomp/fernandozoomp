@@ -81,16 +81,20 @@ I am always ready to learn and improve development techniques. :books: <BR>
 
 <div align="center" width="50">
  
+ 
+ ---
+ 
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=fernandozoomp.fernandozoomp)
 
 </div>
 
+
+
 <div align="center" width="50">
  
- 
- 😊 Happy Coding! 
+  😊 *Happy Coding!* 
 
 ⭐ From [Fernando](https://github.com/fernandozoomp) 
 
