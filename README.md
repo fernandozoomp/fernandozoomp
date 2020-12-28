@@ -8,9 +8,9 @@ How nice to have you here on my Github profile. <BR>
  
 I am always ready to learn and improve development techniques. :books: <BR>
 
-⚡  Available for Freelance projects/internship opportunities.
+⚡  Available for Freelance projects/opportunities.
 
-😊 Happy Coding! 
+
 
 ###  What am currently learning 📖
  
@@ -89,6 +89,8 @@ I am always ready to learn and improve development techniques. :books: <BR>
 
 <div align="center" width="50">
  
+ 
+ 😊 Happy Coding! 
 
 ⭐ From [Fernando](https://github.com/fernandozoomp) 
 
