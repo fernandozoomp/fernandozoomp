@@ -52,7 +52,7 @@ I am always ready to learn and improve development techniques. :books: <BR>
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=D45B11)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
-</div>
+</div> 
 
 <div align="left" width="50">
  
