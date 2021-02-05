@@ -31,8 +31,6 @@ I am always ready to learn and improve development techniques. :books: <BR>
 
 ### My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-F9CD07?style=flat-square&logo=python&logoColor=0C43AB)
-![R](http://img.shields.io/badge/-R-1A4EB8?style=flat-square&logo=R&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 
 
 
@@ -51,6 +49,9 @@ I am always ready to learn and improve development techniques. :books: <BR>
 ![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
 ![Ubuntu](http://img.shields.io/badge/-Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=D45B11)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![R](http://img.shields.io/badge/-R-1A4EB8?style=flat-square&logo=R&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+
 
 </div> 
 
