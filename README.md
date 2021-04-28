@@ -15,7 +15,7 @@ I am always ready to learn and improve development techniques. :books: <BR>
 
 ###  What am currently learning 📖
  
-- Full Stack Web Development  *in Progress *
+- Data Analitycs  *in Progress *
 - Data Science  *in Progress *
 - AI & Machine Learning  *in Progress *
 
@@ -31,20 +31,17 @@ I am always ready to learn and improve development techniques. :books: <BR>
 
 ### My Tech Stack
 ![Python](https://img.shields.io/badge/-Python-F9CD07?style=flat-square&logo=python&logoColor=0C43AB)
-![SAP](https://img.shields.io/badge/-SAP-1A4EB8?style=flat-square&logo=SAP&logoColor=ffffff)
-
-
+![Tableau](https://img.shields.io/badge/-Tableau-FEFEFE?style=flat-square&logo=tableau&logoColor=0C43AB)
 
 #### Database
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-2C62D0?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![Mongo DB](http://img.shields.io/badge/-Mongo%20DB-684531?style=flat-square&logo=Mongodb)
 ![Cassandra](http://img.shields.io/badge/-Cassandra-595858?style=flat-square&logo=Apache%20Cassandra)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-2C62D0?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![AWS](http://img.shields.io/badge/-Amazon%20AWS-black?style=flat-square&logo=Amazon-aws&logoColor=FC9900)
-![Azure](http://img.shields.io/badge/-MS%20Azure-2B6EF3?style=flat-square&logo=Microsoft-Azure&logoColor=ffffff)
 
 #### Others
-![R](http://img.shields.io/badge/-R-1A4EB8?style=flat-square&logo=R&logoColor=ffffff)
+![Power BI](https://img.shields.io/badge/-Power&BI-F2C811?style=flat-square&logo=Power-BI&logoColor=0C43AB)
+![SAP](https://img.shields.io/badge/-SAP-1A4EB8?style=flat-square&logo=SAP&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Apache Spark](http://img.shields.io/badge/-Apache%20Spark-525252?style=flat-square&logo=Apache%20Spark)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
