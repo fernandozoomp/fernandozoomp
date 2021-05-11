@@ -61,10 +61,10 @@ I am always ready to learn and improve development techniques. :books: <BR>
 ### <i>Follow me:</i><br>
 
 <a href="https://www.linkedin.com/in/fernando-cardoso-23245146" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/fernandozoomp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/fernandozoomp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23EB012B.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/fernando.cardoso.505960" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/fernandozoomp" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-
+<a href="https://fernandozoomp.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23B68E1D.svg?&style=flat-square&logo=canonical&logoColor=black" alt="Portfolio"></a>
 </div>
 
 <div align="center">
