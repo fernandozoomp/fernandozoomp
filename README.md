@@ -4,7 +4,7 @@
  
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://user-images.githubusercontent.com/64983541/88351458-caa09c80-cd2c-11ea-8285-71b77dcd96eb.gif" width="30px"></h2> 
 
-How nice to have you here on my Github profile. <BR>
+I am very fond of data and new technology enthusiast. <BR>
  
 I am always ready to learn and improve development techniques. :books: <BR>
  
