@@ -33,6 +33,7 @@ I am always ready to learn and improve development techniques. :books: <BR>
 ![Python](https://img.shields.io/badge/-Python-F9CD07?style=flat-square&logo=python&logoColor=0C43AB)
 ![Tableau](https://img.shields.io/badge/-Tableau-FEFEFE?style=flat-square&logo=tableau&logoColor=0C43AB)
 
+
 #### Database and ETL
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-2C62D0?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 ![MS Server Integration Services](https://img.shields.io/badge/-MS%20SIS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
