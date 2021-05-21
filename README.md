@@ -17,7 +17,7 @@ I am always ready to learn and improve development techniques. :books: <BR>
  
 - Data Analitycs  *in Progress *
 - Data Science  *in Progress *
-- AI *in Progress *
+- Business AI *in Progress *
 
 
 
