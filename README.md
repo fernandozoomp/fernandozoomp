@@ -33,6 +33,7 @@ I am always ready to learn and improve development techniques. :books: <BR>
 ![Python](https://img.shields.io/badge/-Python-F9CD07?style=flat-square&logo=python&logoColor=0C43AB)
 ![Pentaho Data Integration](https://img.shields.io/badge/-Pentaho%20DI-ffffff?style=flat-square&logo=houdini&logoColor=0A37D3)
 ![Tableau](https://img.shields.io/badge/-Tableau-FEFEFE?style=flat-square&logo=tableau&logoColor=0C43AB)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF8307)
 
 
 
