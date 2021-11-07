@@ -29,31 +29,30 @@ I am always ready to learn and improve development techniques. :books: <BR>
 
 <div align="left" >
 
-### My Tech Stack
-![Python](https://img.shields.io/badge/-Python-F9CD07?style=flat-square&logo=python&logoColor=0C43AB)
-![Pentaho Data Integration](https://img.shields.io/badge/-Pentaho%20DI-ffffff?style=flat-square&logo=houdini&logoColor=0A37D3)
-![Tableau](https://img.shields.io/badge/-Tableau-FEFEFE?style=flat-square&logo=tableau&logoColor=0C43AB)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=FF8307)
+### Tech Stack
+![Python](https://img.shields.io/badge/-Python-F9CD07?style=plastic&logo=python&logoColor=0C43AB)
+![Pentaho Data Integration](https://img.shields.io/badge/-Pentaho%20DI-ffffff?style=plastic&logo=houdini&logoColor=D20000)
+![Tableau](https://img.shields.io/badge/-Tableau-FEFEFE?style=plastic&logo=tableau&logoColor=0C43AB)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=plastic&logo=amazonaws&logoColor=FF8307)
 
 
 
-#### Database and ETL
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-2C62D0?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![MS Server Integration Services](https://img.shields.io/badge/-MS%20SIS-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Mongo DB](http://img.shields.io/badge/-Mongo%20DB-684531?style=flat-square&logo=Mongodb)
-![Cassandra](http://img.shields.io/badge/-Cassandra-595858?style=flat-square&logo=Apache%20Cassandra)
+#### Database
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-ffffff?style=plastic&logo=postgresql)
+![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-2C62D0?style=plastic&logo=microsoft-sql-server&logoColor=ffffff)
+![Mongo DB](http://img.shields.io/badge/-Mongo%20DB-684531?style=plastic&logo=Mongodb)
+![Cassandra](http://img.shields.io/badge/-Cassandra-595858?style=plastic&logo=Apache%20Cassandra)
 
 #### Others
-![Power BI](https://img.shields.io/badge/-Power&BI-F2C811?style=flat-square&logo=Power-BI&logoColor=0C43AB)
-![SAP](https://img.shields.io/badge/-SAP-1A4EB8?style=flat-square&logo=SAP&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Apache Spark](http://img.shields.io/badge/-Apache%20Spark-525252?style=flat-square&logo=Apache%20Spark)
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Debian](http://img.shields.io/badge/-Debian-A81D33?style=flat-square&logo=debian&logoColor=ffffff)
-![Ubuntu](http://img.shields.io/badge/-Ubuntu-000000?style=flat-square&logo=ubuntu&logoColor=D45B11)
-![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
+![Power BI](https://img.shields.io/badge/-Power&BI-F2C811?style=plastic&logo=Power-BI&logoColor=0C43AB)
+![MS Server Integration Services](https://img.shields.io/badge/-MS%20SIS-CC2927?style=plastic&logo=microsoft-sql-server&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-black?style=plastic&logo=docker)
+![Apache Spark](http://img.shields.io/badge/-Apache%20Spark-525252?style=plastic&logo=Apache%20Spark)
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=plastic&logo=git&logoColor=%23ffffff)
+![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=plastic&logo=visual-studio-code&logoColor=ffffff)
+![Debian](http://img.shields.io/badge/-Debian-A81D33?style=plastic&logo=debian&logoColor=ffffff)
+![Ubuntu](http://img.shields.io/badge/-Ubuntu-000000?style=plastic&logo=ubuntu&logoColor=D45B11)
+![SAP](https://img.shields.io/badge/-SAP-1A4EB8?style=plastic&logo=SAP&logoColor=ffffff)
 
 
 </div> 
@@ -62,18 +61,17 @@ I am always ready to learn and improve development techniques. :books: <BR>
  
 ### <i>Follow me:</i><br>
 
-<a href="https://www.linkedin.com/in/fernando-cardoso-23245146" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/fernandozoomp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23EB012B.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/fernando.cardoso.505960" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://dev.to/fernandozoomp" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-<a href="https://fernandozoomp.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23B68E1D.svg?&style=flat-square&logo=canonical&logoColor=black" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/fernando-cardoso-23245146" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=social&logo=linkedin&logoColor=blue" alt="LinkedIn"></a><p>
+<a href="https://www.instagram.com/fernandozoomp" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23EB012B.svg?style=social&logo=instagram&logoColor=23EB012B" alt="Instagram"></a><p>
+<a href="https://dev.to/fernandozoomp" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?style=social&logo=DEV.to&logoColor=230A0A0A" alt="DEV.to"></a><p>
+<a href="https://fernandozoomp.github.io/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23B68E1D.svg?style=social&logo=canonical&logoColor=23B68E1D" alt="Portfolio"></a><p>
 </div>
 
 <div align="center">
 
 ### My GitHub Stats
 
-![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandozoomp&show_icons=true)
+![Fernando's github stats](https://github-readme-stats.vercel.app/api?username=fernandozoomp&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 </div>
@@ -92,7 +90,7 @@ I am always ready to learn and improve development techniques. :books: <BR>
  
 
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=fernandozoomp.fernandozoomp)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=fernandozoomp.fernandozoomp&left_color=green&right_color=blue)
 
 </div>
 
