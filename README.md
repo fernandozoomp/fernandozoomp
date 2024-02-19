@@ -9,8 +9,6 @@ I am very fond of data and new technology enthusiast. <BR>
 I am always ready to learn and improve development techniques. :books: <BR>
  
 
-⚡  Available for Freelance projects/opportunities.
-
 
 
 ###  What am currently learning 📖
@@ -18,6 +16,7 @@ I am always ready to learn and improve development techniques. :books: <BR>
 - Data Analitycs  *in Progress *
 - Data Science  *in Progress *
 - Business AI *in Progress *
+- AWS Cloud 
 
 
 
